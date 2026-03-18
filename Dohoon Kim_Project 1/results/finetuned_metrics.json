@@ -1,0 +1,16 @@
+{
+  "model": "Llama-3.1-8B-Instruct + QLoRA",
+  "method": "SFT + QLoRA (rank 16, alpha 32, 3 epochs)",
+  "accuracy": 0.94,
+  "macro_f1": 0.9407,
+  "invalid_rate": 0.0,
+  "n_test": 50,
+  "n_invalid": 0,
+  "per_class_f1": {
+    "Strategy": 0.9474,
+    "Regulation": 0.9524,
+    "Infrastructure": 0.9091,
+    "Capacity": 0.9474,
+    "Inclusion": 0.9474
+  }
+}

@@ -1,0 +1,51 @@
+claim,gold_label,baseline_pred,finetuned_pred,baseline_correct,finetuned_correct
+Sharing best practices in AI policy development through international cooperation remains a key priority for OECD members.,Strategy,Strategy,Strategy,True,True
+Inter-ministerial committees have proven effective in coordinating AI policy across different sectors.,Strategy,Strategy,Strategy,True,True
+Data protection and privacy laws in many countries have not been updated to address challenges posed by AI.,Regulation,Regulation,Regulation,True,True
+High-performance computing infrastructure is a prerequisite for training advanced AI models.,Infrastructure,Infrastructure,Infrastructure,True,True
+Open data platforms for AI training datasets remain underdeveloped in most low- and middle-income countries.,Infrastructure,INVALID,Infrastructure,False,True
+Secure cloud infrastructure investment is necessary to support scalable AI applications at the national level.,Infrastructure,Infrastructure,Infrastructure,True,True
+Integrating AI and data science into school curricula from an early age prepares future generations for a digital economy.,Capacity,Capacity,Capacity,True,True
+Only a small fraction of STEM graduates in OECD countries specialize in AI-related fields.,Capacity,Capacity,Capacity,True,True
+AI literacy programs designed to reach marginalized communities remain rare in most national strategies.,Inclusion,INVALID,Inclusion,False,True
+Countries should develop national digital strategies that integrate AI readiness as a core pillar.,Strategy,Strategy,Strategy,True,True
+Policies promoting competition and equitable distribution of AI gains are critical for mitigating concentration risks.,Strategy,Strategy,Strategy,True,True
+Small AI solutions offer developing countries a practical avenue to bypass traditional development barriers.,Strategy,Capacity,Strategy,False,True
+Government-funded retraining programs can help displaced workers transition to new AI-related roles.,Capacity,Capacity,Capacity,True,True
+Low-income countries face disproportionate barriers in accessing AI technologies due to compounding infrastructure deficits.,Inclusion,INVALID,Infrastructure,False,False
+Data exchange platforms that enable secure sharing across government agencies reduce duplication and improve service delivery.,Infrastructure,Strategy,Infrastructure,False,True
+Open-source technology stacks reduce vendor lock-in and lower costs for digital public infrastructure deployment.,Infrastructure,Strategy,Infrastructure,False,True
+API-based architecture enables seamless integration between digital public services and private sector applications.,Infrastructure,Strategy,Infrastructure,False,True
+"India's Aadhaar system now covers over 1.3 billion residents, demonstrating the scale achievable through digital identity infrastructure.",Infrastructure,Infrastructure,Infrastructure,True,True
+Dedicated digital government units staffed with skilled technology professionals improve infrastructure governance.,Capacity,Infrastructure,Infrastructure,False,False
+Digital identity systems without proper safeguards risk excluding undocumented and marginalized communities.,Inclusion,Inclusion,Inclusion,True,True
+Multilingual interfaces in digital public services are necessary to serve linguistically diverse populations equitably.,Inclusion,Inclusion,Inclusion,True,True
+Benchmarking digital inclusion progress against international targets helps countries identify lagging areas.,Strategy,INVALID,Strategy,False,True
+Regulatory frameworks that cap internet pricing have improved affordability in several developing countries.,Regulation,Regulation,Regulation,True,True
+Consumer protection regulations should be extended to cover digital services and AI-powered products sold online.,Regulation,Regulation,Regulation,True,True
+Approximately 400 million people worldwide still lack access to any mobile broadband network coverage.,Infrastructure,Infrastructure,Infrastructure,True,True
+Low-cost wireless network deployment in rural regions can dramatically expand coverage at a fraction of fiber costs.,Infrastructure,Infrastructure,Infrastructure,True,True
+Refugees and displaced populations are frequently excluded from national digital inclusion strategies despite acute needs.,Inclusion,Inclusion,Inclusion,True,True
+The affordability gap is the primary reason the poorest populations cannot participate meaningfully in the digital economy.,Inclusion,Inclusion,Inclusion,True,True
+"The UNESCO Recommendation represents the first global normative instrument on the ethics of AI, adopted by 193 member states.",Strategy,Regulation,Strategy,False,True
+Liability frameworks assigning legal responsibility for harm caused by AI systems are needed in most jurisdictions.,Regulation,Regulation,Regulation,True,True
+Education systems should integrate AI ethics alongside digital literacy to prepare citizens for an AI-driven society.,Capacity,Capacity,Capacity,True,True
+Scientific research capacity in AI should be strengthened in low- and middle-income countries through dedicated programs.,Capacity,Capacity,Capacity,True,True
+AI literacy education should go beyond technical skills to include understanding of social and ethical implications.,Capacity,INVALID,Capacity,False,True
+AI technologies should promote equitable access so that low- and middle-income countries can share in their benefits.,Inclusion,Inclusion,Inclusion,True,True
+Indigenous communities deserve special protection to ensure AI development respects their cultural values and knowledge systems.,Inclusion,Inclusion,Inclusion,True,True
+AI systems should be designed from the outset to be accessible and usable by persons with disabilities.,Inclusion,Inclusion,Inclusion,True,True
+No single regulatory model works in isolation; effective AI governance requires combining multiple approaches.,Strategy,Strategy,Regulation,True,False
+The maturity of a country's AI ecosystem should determine which regulatory mechanisms are most appropriate.,Strategy,INVALID,Strategy,False,True
+National AI strategies that are not periodically updated quickly become irrelevant to the evolving technology landscape.,Strategy,Strategy,Strategy,True,True
+Binding legal frameworks provide the legal certainty that AI developers need to plan and invest with confidence.,Regulation,Regulation,Regulation,True,True
+Risk-based regulatory approaches subject higher-risk AI systems to more rigorous compliance obligations.,Regulation,INVALID,Regulation,False,True
+Empowering data protection authorities to enforce AI-related regulations has been effective in the EU and Brazil.,Regulation,Regulation,Regulation,True,True
+Updating existing data protection and competition laws to cover AI-specific challenges is less resource-intensive than new legislation.,Regulation,Regulation,Regulation,True,True
+Regional data center collaborations allow smaller countries to pool resources for AI infrastructure development.,Infrastructure,Infrastructure,Infrastructure,True,True
+Digital literacy improvement is the most critical enabler for broader population participation in AI-driven economies.,Capacity,Capacity,Capacity,True,True
+"Only 0.7 percent of new AI PhD graduates in the US and Canada choose government roles, creating a severe public-sector expertise gap.",Capacity,Capacity,Capacity,True,True
+Networks of exchange among university professors across borders can help overcome AI faculty shortages at low cost.,Capacity,Strategy,Capacity,False,True
+Less developed countries face systemic participation gaps in international AI standard-setting processes.,Inclusion,Inclusion,Inclusion,True,True
+"AI systems used in employment, education, and access to essential services are classified as high-risk under the Act.",Regulation,Regulation,Regulation,True,True
+Fines for violating AI Act prohibitions can reach up to 7 percent of a company's worldwide annual turnover.,Regulation,Regulation,Regulation,True,True
