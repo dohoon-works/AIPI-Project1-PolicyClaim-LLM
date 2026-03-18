@@ -4,7 +4,7 @@
 
 ## What This Project Does
 
-We measure and improve an open-source LLM's ability to classify policy claims from international policy documents into 5 categories:
+Measuring and Improving an open-source LLM's ability to classify policy claims from international policy documents into 5 categories:
 
 | Category | What It Captures |
 |---|---|
