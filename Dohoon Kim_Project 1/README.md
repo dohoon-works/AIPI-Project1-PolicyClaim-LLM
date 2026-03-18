@@ -39,12 +39,6 @@ Measuring and Improving an open-source LLM's ability to classify policy claims f
 | Capacity | 0.82 | 0.95 | +0.13 |
 | Inclusion | 1.00 | 0.95 | -0.05 |
 
-## How to Run (Google Colab)
-
-1. Upload the ZIP to Colab
-2. Enable T4 GPU: Runtime → Change runtime type → T4 GPU
-3. Run `notebooks/full_pipeline_colab.ipynb` cells in order (01→02→03→04)
-
 ## Repo Structure
 
 ```
